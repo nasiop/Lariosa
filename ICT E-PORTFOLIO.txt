@@ -1,0 +1,155 @@
+<html>
+<head>
+
+<title>ICT E-portfolio</title>
+
+</head>
+<body style="background-color:#F4E1E3;">
+
+<h3 style="color:#a07aba;"> Andi Zyanne M. Lariosa <br> 9 - Fidelity </h3>
+
+<h1 style="color:#a07aba;"><u>About Me</u></h1>
+
+<h2 style="color:#7A95BB;">My Interests/Hobbies</h2>
+<ul>
+<li>Music</li>
+<li>Painting</li>
+<li>Traveling</li>
+</ul>
+
+<h2 style="color:#7A95BB;">My favorite songs</h2>
+<ol>
+<li><a href="https://www.youtube.com/watch?v=1RKqOmSkGgM">Good Luck, Babe! by Chappell Roan</a></li>
+<li><a href="https://www.youtube.com/watch?v=dglBgJSMr-E">Raining in Manila by Lola Amour</a></li>
+<li><a href="https://www.youtube.com/watch?v=l_rz37o_TEY">Shopper by IU</a></li>
+</ol>
+
+<h2 style="color:#7A95BB;">My Favorite Foods</h2>
+<dl>
+<dt><u>Mashed Potato</u></dt>
+<dd> - A dish made by mashing boiled or steamed potatoes, usually with added milk, butter, salt and pepper.
+<dt><u>Sinigang</u></dt>
+<dd> - A Filipino soup or stew characterized by its sour and savory taste</dd><br>
+<dt><u>Siomai</u></dt>
+<dd> - A traditional Chinese dumpling, made from different types of meat and vegetables
+</dd>
+</dl>
+
+<h2 style="color:#7A95BB;">My Favorite Movies/TV series</h2>
+<ul>
+<li><u>Four Sisters and a Wedding</u>
+<ul>
+<li>Director: <i>Cathy Garcia-Sampana</i> </li>
+<li>Release Year: <i>2013</i></li>
+<li>Genre: <i>Comedy, Drama </i></li>
+</ul>
+</li>
+<li><u>Bridgerton</u>
+<ul>
+<li>Director: <i>Chris Van Dusen</i> </li>
+<li>Release Year: <i>2020</i></li>
+<li>Genre: <i>Romance, Comedy, History </i></li>
+</ul>
+</li>
+<li><u>Hierarchy</u>
+<ul>
+<li>Director: <i>Bae Hyeon-jin</i> </li>
+<li>Release Year: <i>2024</i></li>
+<li>Genre: <i>Teen drama, Romance, Mystery </i></li>
+</ul>
+</li>
+</ul>
+
+<img src="scheldue.jpg" alt="Class scheldue" width="400" height="200">
+
+<video width="400" height="200" controls>
+<source src="Cleaners.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<audio controls>
+<source src="Fate.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+
+<br><br><table border=“3” width=“600” cellpadding=“4” cellspacing=“6” align="center">
+<caption><h1 align="center" style="color:#a07aba;"> <u>1st Quarter activities</u></h1></caption>
+<tr height="35" bgcolor="#fff0aa">
+<th><b>Lesson</b></th>
+<th width="200"><b>Output</b></th>
+<th width="200"><b>Description</b></th>
+</tr>
+<tr>
+<td align="center" bgcolor="pink" width="200">Lists</td>
+<td align="center"><img src="Lists.png" alt="Lists output" width="400" height="200"><img src="Lists1.png" alt="Lists text output" width="400" height="200"></td>
+<td align="center">An example of an output of lists</td>
+</tr>
+<tr>
+<td align="center" bgcolor="pink">Tables</td>
+<td align="center"><img src="Tables.png" alt="Tables Output" width="400" height="200"><img src="Tables1.png" alt="Tables text input" width="400" height="200"></td>
+<td align="center">An example of an output of Tables</td>
+</tr>
+<tr>
+<td align="center" bgcolor="pink">Merging</td>
+<td align="center"><img src="Merging.png" alt="Merging output" width="400" height="200"><img src="Merging1.png" alt="Merging input" width="400" height="200"></td>
+<td align="center">An example of an output of merging tables</td>
+</tr>
+<tr>
+<td align="center" bgcolor="pink">Hyperlink</td>
+<td align="center"><img src="Hyperlink.png" alt="HTML hyperlink exercises" width="400" height="200"><img src="Hyperlink1.png" alt="Hyperlink input" width="400" height="200"></td>
+<td align="center">Our activity about hyperlink, where you input your favorite website and email address</td>
+</tr>
+<tr>
+<td align="center" bgcolor="pink">Form</td>
+<td align="center"><img src="Forms.png" alt="Form output" width="400" height="200"><img src="Forms1.png" alt="Form input" width="400" height="200">
+<td align="center"> An example of a Form output </td>
+</tr>
+</table><br>
+
+<h1 align="center" style="color:#a07aba;"> <u> Reflection for 1st Quarter </u> </h1>
+<p> During the 1st Quarter, I learned about the different HTML Elements, such as Lists, Tables, Hyperlinks, and Forms. Using these elements I can improve the layout and designs of my websites. By using lists, I can present my information in a more structured format and allows information to digesst more easily. Tables help present my data in a clear and organized manner and make information more visually appealing. Hyperlinks allow me to link and navigate to different websites by just a few clicks, making it less of a hassle to find certain websites. Finally, forms provide a way for visitors to reach out, give feedbacks, and inquire about websites, making communication less time-consuming. In summary, combining these HTML elements make websites more organized, user-friendly, and engaging. Reinforcing the importance of structure, functionality, and interactivity in a webpage. </p><br><br>
+
+<form action="http://www.myserver.com/myscript.cgi" method="post">
+<h3 align="center" style="color:#a07aba;"> <u>Feedback Form</u></h3>
+<hr align="center">
+<h5>Name<input type="text"></h5>
+
+<p><br>Please check the devices you have used to access this website<br><br>
+<input name="pictype" type="checkbox" value="cross">Desktop/Laptop
+<input name="pictype" type="checkbox" value="cross">Tablet
+<input name="pictype" type="checkbox" value="cross">Mobile Phone
+<input name="pictype" type="checkbox" value="cross">Other</p>
+
+<p><br>What improvements would you like to see on our website?
+<select name=“contractchoice” size=“3”>
+<option>Better Design</option>
+<option>Faster Loading Speed</option>
+<option>More Informative Content</option>
+<option>Improved Search Functionality</option>
+<option>Better Mobile Experience</option></select>
+
+<p><br>Which aspects of the website did you find most useful?
+<select name="contractchoice" size="2">
+<option>Easy Navigation</option>
+<option>Website Design/Layout</option>
+<option>Content</option>
+<option>Fast Loading Speed</option></select></p>
+
+<p><br>Please check the satisfacctory rate of this website.<br></p>
+<p><input name="pictype" type="radio" value="cross">Dissatisfied</p>
+<p><input name="pictype" type="radio" value="cross">Neutral</p>
+<p><input name="pictype" type="radio" value="cross">Satisfied</p>
+<p><br>Please upload a picture of your valid ID</p>
+<input type="file" name="image" accept="file_extension">
+<p><br>To help us better improve, please write your comments (Optional)<br>
+<textarea name="feedback" rows="15" cols="40"></textarea></p><br>
+
+<p><br>Click the Submit button when you have completed the form.
+</p><input type="submit" value="Submit">
+<input type="reset" value="Reset">
+
+
+</form>
+</body>
+</html>
